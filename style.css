@@ -426,15 +426,23 @@ section .title::after{
 }
 
 .skills-content .right .js::before{
-    width: 80%;
+    width: 70%;
 }
 
-.skills-content .right .React::before{
-    width: 30%;
+.skills-content .right .MongoDB::before{
+    width: 90%;
 }
 
-.skills-content .right .Node-js::before{
+.skills-content .right .GlassFish::before{
     width: 40%;
+}
+
+.skills-content .right .SQlServer::before{
+    width: 40%;
+}
+
+.skills-content .right .RabbitMQ::before{
+    width: 90%;
 }
 
 
